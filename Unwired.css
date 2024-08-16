@@ -1,0 +1,76 @@
+#logo{
+    padding-left: 0%;
+    width: auto;
+    height: 50px;
+}
+
+#title{
+    text-align: center;
+    color:aliceblue;
+}
+
+h2{
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.inlineblock{
+    display: inline;
+}
+
+h1{
+    text-align: center;
+    padding-left: 28%;
+    padding-right: 28%;
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.heading{
+    background-color: rgb(21, 41, 81);
+}
+
+body{
+    background-color: rgb(26, 51, 101);
+}
+
+fieldset{
+    background-color: rgb(37, 72, 142);
+    box-shadow: 0 0 20px 0 black;
+    margin-bottom: 20px;
+}
+
+legend{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size:larger;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+img{
+    align-content: center;
+    width: 40%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.Senna div{
+    display: flex;
+    align-items: flex-start;
+}
+
+.header{
+    font-size: x-large;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#log{
+    padding: 0%;
+    margin: 0;
+}
